@@ -1,0 +1,4 @@
+ ##scontrol -o show assoc_mgr users=niranjang.iith account=nsmapp qos=niranjang.iith_nsm flags=qos
+ To get qos and its current utilisation of the qos
+
+ 
