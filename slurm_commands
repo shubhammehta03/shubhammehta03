@@ -1,4 +1,6 @@
  ##scontrol -o show assoc_mgr users=niranjang.iith account=nsmapp qos=niranjang.iith_nsm flags=qos
  To get qos and its current utilisation of the qos
 
- 
+
+# sacctmgr create qos gpu MaxTRES=cpu=80,gres/gpu=4 MinTRES=cpu=1,gres/gpu=1 MaxJobsPU=4
+Create qos which require min 1 gpu card and max 4 and limit max jobs to 4.
