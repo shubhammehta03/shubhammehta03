@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in System Infrastructure and system security
-- 🌱 I’m currently learning HPC infrastructure and OS Security.
+- 👀 I’m interested in HPC infrastructure, DevOps and OS Security.
 
 <!--- 💞️ I’m looking to collaborate on 
-- 📫 Reach me at Shubhamm --->
+- 📫 Reach me at shubham03mehta@gmail.com --->
 
 <!---
 shubhammehta03/shubhammehta03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
