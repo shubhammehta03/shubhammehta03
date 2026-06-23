@@ -1,7 +1,7 @@
 Hi, I’m Shubham
 I am a High-Performance Computing (HPC) Engineer and Linux Systems Architect working at the intersection of massive-scale infrastructure and Distributed AI. I design, deploy, and tune supercomputing clusters, high-speed fabrics, and containerized workloads for next-gen AI research.
 
-# What I'm Working On & Tech Stack
+## What I'm Working On & Tech Stack
 I spend my time configuring, benchmarking, and breaking things at scale:
 
 * **Orchestration & Schedulers:** Slurm Workload Manager, Kubernetes, xCAT, Open OnDemand
